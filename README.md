@@ -75,7 +75,7 @@ Build Notes from the source and install dependencies:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/astrax-indesire/Notes
+git clone https://github.com/Sairaj062003/Notes.git
 ```
 
 2. **Navigate to the project directory:**
